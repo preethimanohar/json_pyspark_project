@@ -1,5 +1,5 @@
 # json_pyspark_project
-Spring board project - Data wrangling using Json file
+<p>Spring board project - Data wrangling using Json file</p>
 Used pyspark instead of Python to complete this project
 First step I have used sparksession to load the json file to dataframe
 To find the top 10 countries with most projects I have used the spark.sql
